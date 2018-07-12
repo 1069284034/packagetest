@@ -1,15 +1,19 @@
 {
-  "name": "admin/packagetest",
-  "authors": [
-    {
-      "name": "fantastic",
-      "email": "106924034@qq.com"
-    }
-  ],
-  "require": {},
-  "autoload": {
-    "psr-4": {
-      "Fantasticphp\\Packagetest\\": "src"
-    }
-  }
+	"name": "Fantanstic-Jay/pro-package-for-laravel",
+	"authors": [
+	{
+	  "name": "fantastic",
+	  "email": "106924034@qq.com"
+	}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+		  "Fantasticphp\\Packagetest\\": "src"
+		}
+	}
+	"license": "MIT",
+	"require": {
+		"php": ">=5.4"
+	},
 }
