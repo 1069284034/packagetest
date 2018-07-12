@@ -12,8 +12,5 @@
 		  "Fantasticphp\\Packagetest\\": "src"
 		}
 	},
-	"license": "MIT",
-	"require": {
-		"php": ">=5.4"
-	},
+	"license": "MIT"
 }
