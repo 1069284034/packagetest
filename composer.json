@@ -1,0 +1,15 @@
+{
+  "name": "admin/packagetest",
+  "authors": [
+    {
+      "name": "jiajie",
+      "email": "106924034@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Fantasticphp\\Packagetest\\": "src"
+    }
+  }
+}
